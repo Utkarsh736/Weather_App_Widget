@@ -1,0 +1,10 @@
+// Config File 
+/config.py
+
+# .idea module
+
+.idea/
+
+# Cache Module
+
+/__pycache__/
